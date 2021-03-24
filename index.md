@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8"/>
-    <title>Meu Redirect</title>
-
-    <meta http-equiv="refresh" content="1; URL='https://ead.unicathedral.edu.br/'"/>
-</head>
-<body>
-...
-</body>
-</html>
+<script language="JavaScript"> 
+window.location="http://ead.unicathedral.edu.br"; 
+</script> 
